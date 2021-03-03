@@ -1,1 +1,2 @@
-This folder contains information on the literature and datasets associated with studies of seascape genomics in North Pacific forage fishes.
+This folder contains the literature associated with genomic datasets investigating seascape genomics in North Pacific forage fishes.
+data_sources.csv is a tab-delimited file containing citation information (first author, year, title, journal, volume, issue, pages, and doi), as well as information associated with the dataset (data type, number of samples, NCBI BioProject, and BioProject URL).
